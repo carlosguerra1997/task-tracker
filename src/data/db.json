@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Ir al gimnasio",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "name": "Ver serie en inglés",
+      "isDone": false
+    }
+  ]
+}
